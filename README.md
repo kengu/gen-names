@@ -12,13 +12,7 @@ Locales
 Usage
 =====
 
-Enter following url-format
-
-```
-
-URL/names.php?lists=list1|count1,list2|count2,...
-
-```
+Enter following url-format: `URL/names.php?lists=list1|count1,list2|count2,...`
 
 
 
