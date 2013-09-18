@@ -7,7 +7,19 @@ Simple url-style tool for generating lists of names.
 Locales
 =======
 
-* Norwegian
+* Norwegian 
+
+Usage
+=====
+
+Enter following url-format
+
+```
+
+URL/names.php?lists=list1|count1,list2|count2,...
+
+```
+
 
 
 Demo
