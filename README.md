@@ -19,4 +19,4 @@ Enter following url-format: `URL/names.php?lists=list1|count1,list2|count2,...`
 Demo
 ====
 
-http://discoos.io/names.php?lists=Trondheim|10,Nord-Fron|15,Drammen|20
+http://gen.discoos.io/names.php?lists=Trondheim|10,Nord-Fron|15,Drammen|20
